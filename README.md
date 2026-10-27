@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="north street · 产品经理 / 编程爱好者 · 边学边做" />
+  <img src="assets/header-game-ui-v2.svg" width="100%" alt="north street · 产品经理 / 编程爱好者 · 边学边做" />
 </p>
 
 <p align="center">
