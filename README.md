@@ -1,9 +1,66 @@
-# Hi, I'm north street 👋
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="north street — Product thinker, curious builder" />
+</p>
 
-本职是产品经理，因为喜欢编程，也开始自己写代码。
-喜欢琢磨产品，也享受亲手把想法做出来的过程。
+<p align="center">
+  <b>本职产品经理 · 因为喜欢编程，开始自己写代码</b>
+</p>
 
-- 🎮 最近在做 [PokéRogue Early](https://github.com/northstreet01/pokerogue-early)：基于 PokéRogue 早期版本进行修改，探索双人合作玩法。
-- 📝 [个人博客](https://northstreet01.github.io)：记录学习、实践和想法。
+<p align="center">
+  喜欢琢磨产品，也享受亲手把想法做出来的过程。<br />
+  从一个念头到一次尝试，边学边做，慢慢完善。
+</p>
 
-边学边做，把感兴趣的事情慢慢变成现实。
+<p align="center">
+  <a href="https://github.com/northstreet01/pokerogue-early">🎮 正在做的项目</a>
+  &nbsp; · &nbsp;
+  <a href="https://northstreet01.github.io">📝 我的博客</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/northstreet01?tab=repositories">🧩 更多尝试</a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="assets/creative-time.png" width="860" alt="蓝色房间里的创作时刻，字幕：喂喂，认真点创作啦！" />
+</p>
+
+## 🛠️ 把想法变成可以体验的东西
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3>🎮 PokéRogue Early</h3>
+      <p>基于 PokéRogue 早期版本进行修改，保留单人游戏与本地存档，逐步探索双人合作玩法。</p>
+      <p><code>TypeScript</code> <code>游戏改造</code> <code>开发中</code></p>
+      <a href="https://github.com/northstreet01/pokerogue-early">查看项目 →</a>
+    </td>
+    <td width="42%" valign="top">
+      <h3>📝 学习，也留下记录</h3>
+      <p>在博客里记录学习、实践和想法，让做过的尝试、遇到的问题都有迹可循。</p>
+      <p><code>学习记录</code> <code>实践笔记</code></p>
+      <a href="https://northstreet01.github.io">去博客看看 →</a>
+    </td>
+  </tr>
+</table>
+
+## 🌙 晚间频道
+
+<p>喜欢编程，也喜欢这些陪伴创作的小瞬间。</p>
+
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="assets/how-late.png" width="280" alt="今天打算熬到几点呢？" /></td>
+    <td align="center" width="33%"><img src="assets/take-a-break.png" width="280" alt="已经很晚了。要注意休息哦。" /></td>
+    <td align="center" width="33%"><img src="assets/night-work.png" width="280" alt="晚上真的很适合干活呢～" /></td>
+  </tr>
+</table>
+
+<p align="center"><sub>个人收藏的画面 · 图片中的角色与美术归原作者所有</sub></p>
+
+<br />
+
+<p align="center">
+  <b>把感兴趣的事情，慢慢变成现实。</b><br />
+  <sub>Stay curious. Keep building.</sub>
+</p>
