@@ -22,7 +22,7 @@
 <br />
 
 <p align="center">
-  <img src="assets/creative-time.png" width="860" alt="蓝色房间里的创作时刻，字幕：喂喂，认真点创作啦！" />
+  <img src="assets/creative-time.png" width="860" alt="《放松时光：与你共享Lo-Fi故事》中的聪音：喂喂，认真点创作啦！" />
 </p>
 
 ## 🛠️ 把想法变成可以体验的东西
@@ -44,9 +44,9 @@
   </tr>
 </table>
 
-## 🌙 晚间频道
+## 🎧 聪音 · 我特别喜欢的角色
 
-<p>喜欢编程，也喜欢这些陪伴创作的小瞬间。</p>
+<p>她是《放松时光：与你共享Lo-Fi故事》里的聪音（Satone）。<br />我特别喜欢她，所以也想在自己的主页上，留一个属于她的小角落。</p>
 
 <table>
   <tr>
@@ -56,7 +56,7 @@
   </tr>
 </table>
 
-<p align="center"><sub>个人收藏的画面 · 图片中的角色与美术归原作者所有</sub></p>
+<p align="center"><sub>聪音（Satone） · 游戏截图来自 <a href="https://store.steampowered.com/app/3548580/?l=schinese">《放松时光：与你共享Lo-Fi故事》</a></sub></p>
 
 <br />
 
