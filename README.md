@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="north street — Product thinker, curious builder" />
+  <img src="assets/header.svg" width="100%" alt="north street · 产品经理 / 编程爱好者 · 边学边做" />
 </p>
 
 <p align="center">
@@ -44,9 +44,9 @@
   </tr>
 </table>
 
-## 🎧 聪音 · 我特别喜欢的角色
+<h2 align="center">🎧 聪音</h2>
 
-<p>她是《放松时光：与你共享Lo-Fi故事》里的聪音（Satone）。<br />我特别喜欢她，所以也想在自己的主页上，留一个属于她的小角落。</p>
+<p align="center">《放松时光：与你共享Lo-Fi故事》里的聪音（Satone）<br /><b>喜欢聪音小姐</b></p>
 
 <table>
   <tr>
